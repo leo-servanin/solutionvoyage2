@@ -1,0 +1,17 @@
+.rouge{
+    color: red;
+}
+body{
+    background:linear-gradient(#30ffa9,rgba(145, 186, 168, 1)); 
+    background-repeat: no-repeat; 
+    height: 844px;
+}
+.img{
+    display: block;
+    height: auto;
+    width: auto;
+    margin: auto;
+}
+.email{
+    justify-content: space-around;
+}
